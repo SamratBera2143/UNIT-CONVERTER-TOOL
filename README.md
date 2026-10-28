@@ -2,15 +2,24 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS PRIVATE LIMITED
 
-*NAME*: SAMRAT BERA
+*FULL NAME*: SAMRAT BERA
 
 *INTERN ID*: CITS8956
 
 *DOMAIN*: PYTHON PROGRAMMING
 
-*DURATION*: 12 WEEKS
+*NO. OF WEEKS*: 12 WEEKS
 
 *MENTOR*: NEELA SANTHOSH KUMAR
+
+*PROJECT NAME*: UNIT CONVERTER TOOL
+
+
+*PROJECT SCOPE*: The scope of this project is to develop a simple, menu-driven Unit Converter Tool using Python that enables users to convert measurement values between different units quickly and accurately. The application focuses on three major categories: length, weight, and temperature. It provides conversion options such as kilometers to meters, meters to centimeters, kilograms to grams, kilograms to pounds, Celsius to Fahrenheit, Fahrenheit to Celsius, and Celsius to Kelvin.
+The project includes user input, mathematical calculations, conditional statements, loops, and functions to perform the required conversions. It also displays the converted results and provides error messages when users select invalid menu options. The program continues running until the user chooses to exit.
+The project is intended to strengthen practical Python programming skills and demonstrate how basic programming concepts can be used to solve everyday measurement problems. The current version operates through a command-line interface and does not require an internet connection or external libraries.
+In the future, the application can be expanded by adding more measurement categories, improved input validation, a graphical user interface (GUI), and additional conversion features. These enhancements can make the tool more interactive, flexible, and suitable for a wider range of users.
+
 
 *DESCRIPTION*: 
 The Unit Converter Tool is a Python-based application developed as part of an internship task to perform conversions between different units of measurement. The main objective of this project is to create a simple, user-friendly, and menu-driven program that allows users to convert values from one unit to another quickly and accurately. This project helps demonstrate the practical application of Python programming concepts, including functions, loops, conditional statements, user input, and arithmetic operations.
